@@ -35,7 +35,7 @@ yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_
 ```bash
 官网：https://www.aapanel.com/
 ```
-### 方法二、安装完国内BT后在SSH执行如下命令
+### 方法二、安装完国内BT后在SSH执行如下命令,取消强制手机登录宝塔
 ```bash
 echo "{\"uid\":1000,\"username\":\"admin\",\"serverid\":1}" > /www/server/panel/data/userInfo.json
 ```
