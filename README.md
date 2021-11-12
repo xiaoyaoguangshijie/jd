@@ -97,7 +97,7 @@ cat查看之后返回的结果类似如下字段
 bash <(curl -sL https://raw.githubusercontent.com/King-stark/normal-shell/main/onekey-install-nvjdc.sh)
 ```
 ###  自备份 
-```bash bash <(curl -sL https://raw.githubusercontent.com/xiaoyaogsj/jd/main/onekey-install-nvjdc.sh) ```
+```bash bash <(curl -sL https://raw.githubusercontent.com/xiaoyaoguangshijie/jd/main/onekey-install-nvjdc.sh) ```
 ###  服务器名称 自定义 英文
 ###  青龙ID   青龙面板 【系统设置】--【应用设置】-【环境变量】
     
