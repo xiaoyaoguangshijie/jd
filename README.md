@@ -98,7 +98,7 @@ bash <(curl -sL https://raw.githubusercontent.com/King-stark/normal-shell/main/o
 ```
 ###  自备份 
 ```bash 
-bash <(curl -sL https://raw.githubusercontent.com/xiaoyaoguangshijie/jd/main/onekey-install-nvjdc.sh?token=AQ6CDOLO2U6KAKLQVNTSGFLBRXRXY)
+bash <(curl -sL https://raw.githubusercontent.com/xiaoyaoguangshijie/jd/main/onekey-install-nvjdc.sh?token=AQ6CDOJNEVBYUVKJY5K3WGDBRZ2N6)
 ```
 ###  服务器名称 自定义 英文
 ###  青龙ID   青龙面板 【系统设置】--【应用设置】-【环境变量】
