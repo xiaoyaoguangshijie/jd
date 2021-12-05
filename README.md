@@ -113,7 +113,7 @@ bash <(curl -sL https://raw.githubusercontent.com/xiaoyaoguangshijie/jd/main/one
 ```
 ### 3、再输入机器人名称。便可得到token 
 
-<img src="https://raw.githubusercontent.com/xiaoyaoguangshijie/jd/main/img/token.png">
+<img src="https://github.com/xiaoyaoguangshijie/jd/blob/main/img/token.png?raw=true">
 
 ## 搜索getmyid_bot 获取USER id
 ###  输入 
