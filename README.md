@@ -45,7 +45,7 @@ echo "{\"uid\":1000,\"username\":\"admin\",\"serverid\":1}" > /www/server/panel/
 然后打开软件商店，搜索docker管理器，点击安装等待完成。
 
 ## 第三步 安装青龙面板
-### 安装青龙面板 https://github.com/whyour/qinglong/blob/develop/INSTALL.md
+### 安装青龙面板 https://github.com/whyour/qinglong
 
 ### 复制下列命令在ssh执行(先安装docker)
 ```bash
