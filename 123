@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+  "resource": {
+    "lists": [
+      "这里填写要推送视频的目录"
+    ],
+    "extensions": [ "mp4", "flv" ]
+  },
+    "play": {
+        "play_model": "loop",
+        "encode_model": "rtmp",
+        "skip_invalid_resource": true,
+        "cache_on": true,
+        "rpc": {
+          "on": true,
+          "port": 4156,
+          "address": "127.0.0.1"
+    },
+        "encode": {
+            "video_width": 780,
+            "video_height": 480,
+            "video_fps": 30,
+            "audio_channel_layout": 3,
+            "audio_channels": 2,
+            "audio_sample_rate": 48000
+        }
+    },
+    "output": {
+        "reconnect_internal": 5,
+        "lists": [
+            {
+                "path":
+                "这里是推送的地址"
+            }
+        ]
+    }
+} 
